@@ -1,6 +1,6 @@
 ## Hello there! Welcome to my GitHub profile ✨
 
-I'm **Bernice**, a third-year Computer Science student in Nanyang Technological University 🇸🇬!
+I'm **Bernice**, a final year Computer Science student in Nanyang Technological University 🇸🇬!
 
 I ❤️ solving problems and creating & designing cool applications. 
 
